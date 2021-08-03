@@ -14,7 +14,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 Ask me anything <a href="https://t.me/Thetechnohacker"><b>here</b></a><br>
 or <a href="mailto:thetechnohack21@gmail.com"><b>email</b></a> me. <br>
 Still learning...... <br>
-Believe in silent hustle
+I believe in silent hustle
   
 <i>Happy Coding!</i> 😊
 
